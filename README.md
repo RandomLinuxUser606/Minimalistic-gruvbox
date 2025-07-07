@@ -100,4 +100,7 @@ Plugins:
 | `CTRL + 4`  | Wallpaper 5 (`wallpaper5.png`)   |
 
 ## Other screenshots
+![2025-07-07-194942_hyprshot](https://github.com/user-attachments/assets/37a6143d-142d-45a8-bd39-bf2b4bffb7f9)
+![2025-07-07-192550_hyprshot](https://github.com/user-attachments/assets/cd944cfd-7e87-4f44-94f5-7a87dad4105e)
+![2025-07-07-191414_hyprshot](https://github.com/user-attachments/assets/f5aec6da-d353-41a5-9b3e-9b32468025e2)
 
