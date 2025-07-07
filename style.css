@@ -1,0 +1,18 @@
+#waybar {
+  background-color: rgba(15, 15, 15, 0.5);
+  color: #e0d0ab;
+}
+
+#workspaces button {
+    padding: 2px;
+    background-color: #e0d0ab;
+    color: #0f0f0f;
+    margin: 3px;
+}
+
+#workspaces button:hover {
+    padding: 2px;
+    background-color: #0f0f0f;
+    color: #e0d0ab;
+    margin: 3px;
+}
