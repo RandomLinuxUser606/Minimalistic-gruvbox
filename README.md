@@ -16,6 +16,7 @@ Step 2: Install the necessary packages with your distro's repository or with ext
 - oh my zsh
 - lazyvim
 - obsidian
+- cava
 
 Step 3: Move the files, create folders if necessary:
 | **Arquivo**             | **Caminho**                      |
@@ -26,7 +27,9 @@ Step 3: Move the files, create folders if necessary:
 | wallpapers              | `~/Pictures/Wallpapers/`         |
 | style.css               | `/etc/xdg/waybar`                |
 | config.json (waybar)    | `/etc/xdg/waybar`                |
-note: Use sudo acessing /etc/xdg/waybar. If you dont want that, please use ~/.config/waybar .
+| config                  | `~/.config/cava/`                |
+
+note: Use sudo acessing /etc/xdg/waybar. If you dont want that, please use ~/.config/waybar instead.
 
 ### Firefox
 
