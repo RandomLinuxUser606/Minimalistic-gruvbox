@@ -14,7 +14,7 @@ Step 2: Install the necessary packages with your distro's repository or with ext
 - fastfetch
 - zsh
 - oh my zsh
-- lazyvim
+- rofi
 - obsidian
 - cava
 
