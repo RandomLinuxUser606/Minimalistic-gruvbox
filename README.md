@@ -19,7 +19,7 @@ Step 2: Install the necessary packages with your distro's repository or with ext
 - cava
 
 Step 3: Move the files, create folders if necessary:
-| **Arquivo**             | **Caminho**                      |
+| **File**                | **path**                         |
 |-------------------------|----------------------------------|
 | kitty.conf              | `~/.config/kitty/`               |
 | hyprland.conf           | `~/.config/hypr/`                |
